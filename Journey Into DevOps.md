@@ -1,7 +1,5 @@
-## Press A to Start Your Journey 🎮
-<p align="center"> 
-Howdy!🤠 
-</p>
+## Press A to Start Your Journey 🎮 
+
 <p align="center"> 
 My Journey into DevOps finally begins!👨🏼‍💻 
 
