@@ -1,4 +1,4 @@
-## Press A to Start Your Journey Into DevOps 🎮
+## Press A to Start Your Journey 🎮
 <p align="center"> 
 Howdy!🤠 
 </p>
