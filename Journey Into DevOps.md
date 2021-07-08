@@ -10,7 +10,7 @@ It's going to be alot of head scratching, coffee drinking and overall exciting t
 <p align="center"> 
 <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" alt="zigzag"/>
 </p>
-I use to work as a L1/L2 Help Desk Engineer for an e-commerce company, and when COVID hit I was rushed into the deep end of 1st line Support. Having to support over 6000+ people as 
+I used to work as a L1/L2 Help Desk Engineer for an e-commerce company, and when COVID hit I was rushed into the deep end of 1st line Support. Having to support over 6000+ people as 
 a 18/19 year old apprentice was a daunting task, but I was always up for a challenege. Once things calmed down and I was left doing the same basics of, "Have you tried turning it on off again?", "I'll remote on and install the printer driver" -  I was left wondering, "Where 
 do I go from here?"
 
