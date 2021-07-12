@@ -30,6 +30,4 @@ I'm excited to be an apprentice again, and I'm now back to knowing nothing, aski
 <img src="https://media.giphy.com/media/tkq4V3XKPlTO0/giphy.gif" alt="zigzag"/>
 </p>
 
-I'll probably be posting every week, with the progress I have and by the end of 16 weeks I should be able to see a massive difference!
-
 Tyler 👨🏼‍💻🦦
