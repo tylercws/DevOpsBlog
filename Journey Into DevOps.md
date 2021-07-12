@@ -22,6 +22,8 @@ Long story short, I applied to become an DevOps Apprentice for DWP and after a c
 
 Depsite the looming sense of being an ""fake and not deserving"", I was telling everyone and everything about my new job - even my cats, who seemed to be the least thrilled. 
 
+Digital With Purpose are designing and developing user-centred services for millions of people in the UK! As one of the most advanced digital organisations in government, I Will be helping push the digital front by delivering some of the largest tech projects in the UK!
+
 
 I'm excited to be an apprentice again, and I'm now back to knowing nothing, asking everything and breaking things for fun!
 <p align="center"> 
