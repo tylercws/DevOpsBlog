@@ -40,8 +40,6 @@ I have been able to go from printing "Hello World!" to setting up classes and me
 My main focus emotionally is to focus on the moment, what I can do now and not comparing to what I should be doing in 6 weeks time. I sometimes get curious and look at
 future course content and get completly lost, which is what my reaction should be because I haven't worked my way up to it - but my stupid ape brain just gets anxious about it.
 
-I've been attending meditation classed makers set out, and they are superb for recharging my energy and getting ready for the afternoon ahead. 
-
 In all, these past couple of weeks have been lots of fun - despite the amount of change and learning I've had to endure! 
 
 Here's to becoming a sucessfull and proficient DevOps Engineer
